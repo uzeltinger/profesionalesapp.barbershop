@@ -12,7 +12,7 @@
     android:paddingTop="0dip"
     android:paddingBottom="0dip"
 	tools:context="profesionalesapp.barbershop.MainActivity"
-    android:background="@color/colorPrimary">
+    android:background="@color/colorBlack">
     <RelativeLayout
         android:id="@+id/msw_welcome"
         android:layout_width="match_parent"
