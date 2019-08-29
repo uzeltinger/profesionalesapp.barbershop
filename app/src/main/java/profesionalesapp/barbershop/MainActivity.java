@@ -5,7 +5,7 @@ package profesionalesapp.barbershop;
  * Developed by Ghazi Khan (https://github.com/mgks) under MIT Open Source License.
  * This program is free to use for private and commercial purposes.
  * Please mention project source or developer credit in your Application's License(s) Wiki.
- * Giving right credit to developers encourages them to create better projects :)
+ * Giving right credit to developers encourages them to create better projects :) v12
 */
 
 import android.Manifest;
